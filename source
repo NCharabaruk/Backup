@@ -1,0 +1,7 @@
+source /opt/ros/groovy/setup.bash
+source ~/groovy_ws/setup.bash
+source ~/catkin_ws/devel/setup.bash
+source ~/catkin_ws/install/setup.bash
+source ~/groovy_ws/setup.bash
+ROS_MASTER_URI=http://127.0.0.1:11311
+ROS_HOSTNAME=192.168.1.100
